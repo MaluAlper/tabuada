@@ -1,0 +1,11 @@
+C:\luiza\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csprojAssemblyReference.cache
+C:\luiza\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfoInputs.cache
+C:\luiza\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfo.cs
+C:\luiza\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.exe
+C:\luiza\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.deps.json
+C:\luiza\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.json
+C:\luiza\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.dev.json
+C:\luiza\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.dll
+C:\luiza\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.pdb
+C:\luiza\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.dll
+C:\luiza\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.pdb
